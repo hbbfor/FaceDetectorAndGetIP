@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyTheme</string>
+    <string name="open_file">打开</string>
+    <string name="image">no image</string>
+    <string name="reco">人脸检测</string>
+    <string name="open_camera">UDP</string>
+    <string name="getIp">获取IP</string>
+</resources>
